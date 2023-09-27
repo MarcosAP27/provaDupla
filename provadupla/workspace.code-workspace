@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "gateway",
+			"path": "gateway"
+		},
+		{
+			"name": "discovery-server",
+			"path": "discovery-server"
+		},
+		{
+			"name": "cadastro",
+			"path": "cadastro"
+		},
+		{
+			"name": "vendas",
+			"path": "vendas"
+		},
+		{
+			"name": "config-server",
+			"path": "config-server"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
